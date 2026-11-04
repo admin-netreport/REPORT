@@ -1,13 +1,10 @@
 
-<h1 align="center">👑 REPORT</h1>
+<h1 align="center">REPORT</h1>
 
 <p align="center">
-  <b>OFFICIAL REPORT GALLERY</b>
 </p>
 
 <hr>
-
-<h2 align="center">📸 IMAGE GALLERY</h2>
 
 <table width="100%">
 <tr><td align="center"><img src="https://raw.githubusercontent.com/admin-netreport/REPORT/main/416000695-f057d19c-e50b-45b5-9237-aeb5dc7daa51.jpg" width="100%"></td></tr>
@@ -44,9 +41,6 @@
 </table>
 
 <hr>
-
-<h2 align="center">🎬 ANIMATED GIF GALLERY</h2>
-
 <table width="100%">
 <tr><td align="center">
 <img src="https://raw.githubusercontent.com/admin-netreport/REPORT/main/gif10.gif" width="100%">
@@ -65,5 +59,4 @@
 <hr>
 
 <p align="center">
-<b>REPORT | OFFICIAL REPOSITORY</b>
 </p>
